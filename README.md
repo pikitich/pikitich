@@ -4,7 +4,8 @@
 
 <a href="https://t.me/pikitich" target="_blank">
 <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=Telegram style="margin-bottom: 5px;" />
-</a>  
+</a>
+
 <a href="https://github.com/pikitich" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
